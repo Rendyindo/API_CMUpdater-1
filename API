@@ -9,7 +9,7 @@
     "filename": "cm-12.1-20160521-UNOFFICIAL-X510.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/AmbaradulTeam/API_CMUpdater/master/CHANGELOG",
-    "incremental": "5425fe3b9b"
+    "incremental": "cm1220160521"
     },
   ],
  "error": null
